@@ -1,5 +1,5 @@
 ---
-Title: alejometal Inc.
+title: alejometal Inc.
 layout: post
 ---
 
