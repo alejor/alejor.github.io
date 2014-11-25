@@ -18,7 +18,7 @@ Es una historia de amor, donde ninguno de los dos puede existir sin el otro.
 
 La dualidad, y todas sus metáforas son ciertas, la espiral, el ying yang, el 1 y el 0, el uróboros, el nudo infinito, convergencia y divergencia, entre otros, condensan sabiduría de muchas vidas que al igual se han pensado el todo.
 
-Hipótesis:
+##Hipótesis:
 
 * Son lo mismo pero no lo saben, no lo pueden saber ya que si lo pudieran ya lo hubieran hecho y por lo tanto nada existiría. Si entendemos que el tiempo no existe sino para nosotros, todo es y ocurre simultáneamente, como ver un plano infinito, ver todos los instantes en uno solo.
 
@@ -32,7 +32,7 @@ Hipótesis:
 
 Cómo saberlo todo?, quizá ahí este la clave de la existencia, o el propósito de la existencia. Imagínate un ser que quiera saberlo todo TODO ABSOLUTAMENTE TODO, que tendría que hacer?, calcular todas las posibilidades todas, crear infinitas maquinas virtuales, infinitos universos, donde solo varíe un parámetro tal vez la velocidad de la luz, o la constante de planck; De ahí proviene la aleatoriedad.
 
-Inquietudes:
+##Inquietudes:
 
 * Todo lo que existe es cierto?
 
