@@ -26,7 +26,7 @@ La dualidad, y todas sus metáforas son ciertas, la espiral, el ying yang, el 1 
 
 * La compresibilidad de la información es un tema de tal importancia de la que aparenta ser, quizá tenga la clave de la existencia.
 
-* La memoria funciona por medio de un método de <compresión con pérdida> de la percepción
+* La memoria funciona por medio de un método de *compresión con pérdida* de la percepción
 
 * Quizá el todo se pueda describir lógicamente, como un fractal, una función caótica cuyo parámetro es 1/x. Quizá el resultado sea la velocidad, es decir espacio / tiempo.
 
