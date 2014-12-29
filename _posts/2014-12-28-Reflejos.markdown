@@ -8,9 +8,11 @@ Un espejo refleja al otro y este al otro y así hasta que en el fondo se vuelve 
 
 Quise 'comprobar' lo que sucede, y teniemndo como excusa incluir imagenes en jekyll y retomar blender, hice una escena con dos objetos simulando espejos, confrontados entre sí.
 
+![Escena](/images/blender.png)
+
 Esta escena fue renderizada con luxrender, un motor open source que intenta ser unbiased y físicamente correcto.
 
-
+![Render](/images/mirror.png) 
 
 Cómo de una configuración finita se produce un fenomeno infinito?, no resulta ser menos que fascinante.
 
