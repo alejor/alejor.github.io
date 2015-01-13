@@ -18,5 +18,8 @@ Cómo de una configuración finita se produce un fenomeno infinito?, no resulta 
 
 Este fenomeno también evoca a los fractales, a la autosemejanza, a la copia y reproduccion de información.
 
-En fin mucha imaginación...
+Actualización: Convertí la isoesfera con subdivisiones y suavizado, transformándose en una esfera, tal como aparece en esta (mucho más interesante) imagen
 
+![Escena 2](/images/blender2.png)
+
+![Render 2](/images/mirror2.png)
