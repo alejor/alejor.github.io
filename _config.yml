@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
     alejometal Inc. es un blog creado por Alejandro Rodriguez en su tiempo libre.  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://alejor.github.io" # the base hostname & protocol for your site
-twitter_username: alejometal3
+twitter_username: alejom3t4l
 github_username:  alejor
 
 # Build settings
