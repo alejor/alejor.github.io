@@ -1,10 +1,10 @@
 # Site settings
-title: alejor.xyz
+title: alejometal Inc.
 email: alejometal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    alejor.xyz aka alejometal inc. es un blog creado por Alejandro Rodriguez en su tiempo libre.  
+    alejometal Inc. es un blog creado por Alejandro Rodriguez en su tiempo libre.  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://alejor.xyz" # the base hostname & protocol for your site
+url: "https://alejor.github.io" # the base hostname & protocol for your site
 twitter_username: alejom3t4l
 github_username:  alejor
 
